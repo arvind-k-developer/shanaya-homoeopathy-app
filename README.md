@@ -1,4 +1,4 @@
-# covid-checkin-app
+# shanaya-homoeopathy-app
 
 Here will be some information about the app.
 
